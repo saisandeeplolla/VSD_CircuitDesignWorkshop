@@ -20,7 +20,7 @@ Vin in 0 1.8V
 *simulation commands
 
 .op
-.dc Vdd 0 1.8 0.1 Vin 0 1.8 0.1
+.dc Vdd 0 1.8 0.1 Vin 0 1.8 0.05
 
 .control
 
