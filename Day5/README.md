@@ -12,7 +12,7 @@ Simulate power supply and device variations in a CMOS inverter
 
 | ![day5_supplyvariation](./day5_supplyvariation.png) |
 |:----------------------:|
-| *Figure 1: Vout vs Vin of a CMOS inverter for various Vdd (supply voltages).* |
+| *Figure 1: Vout vs Vin of a CMOS inverter for various Vdd values(supply voltages).* |
 
 | ![day5_devicevariation](./day5_devicevariation.png) |
 |:----------------------:|

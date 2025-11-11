@@ -10,7 +10,7 @@ Obtain Id vs Vds curve of a NMOS
 
 | ![day1_idvsvds](./day1_idvsvds.png) |
 |:----------------------:|
-| *Figure 1: Id vs Vds for an NFET.* |
+| *Figure 1: Id vs Vds of an NFET.* |
 
 | ![day1_cutoffcurrentidvsvgs](./day1_cutoffcurrentidvsvgs.png) |
 |:----------------------:|
